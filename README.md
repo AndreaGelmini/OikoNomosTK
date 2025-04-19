@@ -21,7 +21,7 @@ OikoNomosTK aims to provide a robust and well-tested set of tools for developers
 The recommended way to install OikoNomosTK is through [Composer](https://getcomposer.org/):
 
 ```bash
-composer require AndreaGelmini/oikonomostk
+composer require oikonomos-tk/oikonomos-tk
 ```
 ## Basic Usage
 ```php
@@ -103,3 +103,11 @@ Contributions are welcome! Whether it's reporting a bug, suggesting a feature, o
 ## License
 
 This project is licensed under the **MIT License**. See the [LICENSE](https://www.google.com/search?q=MIT) file for details.
+
+## Contact
+If you have any questions or comments, please feel free to contact me at [github@andreagelmini.it](mailto:github@andreagelmini.it) or open a issue
+
+
+## Donations
+If you find this project useful, you can support my work with a donation:
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X415RASI)
